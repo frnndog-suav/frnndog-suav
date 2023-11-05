@@ -1,4 +1,3 @@
-### Hello, I am Fernando Goia.
+### Hello outsider, you can call me Feng Lee.
 
-I’m currently working on my Github account to learn things that i consider interesting.
-
+I study front-end technologies in this place (or whatever a find interesting).
