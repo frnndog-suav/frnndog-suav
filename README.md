@@ -1,3 +1,3 @@
-### Hello outsider, you can call me Feng Lee.
+### Olá, pode me chamar de Goia.
 
-I study front-end technologies in this place (or whatever a find interesting).
+Eu tenho conhecimento em backend e frontend.
