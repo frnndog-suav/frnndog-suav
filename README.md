@@ -214,6 +214,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
 
 ### 🤖Ja trabalhei com/estudei:
 <p align="left">
+    <a href="https://www.javascript.com/">
 <img 
     align="left" 
     alt="JavaScript" 
@@ -221,7 +222,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+/></a>
+    <a href="https://nextjs.org/">
     <img 
     align="left" 
     alt="Next.js" 
@@ -229,7 +231,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+/></a>        
+    <a href="https://angular.dev/">
         <img 
     align="left" 
     alt="Angular" 
@@ -237,7 +240,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
-/>
+/></a>    
+    <a href="https://www.java.com/en/">
     <img 
     align="left" 
     alt="Java" 
@@ -245,7 +249,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+/></a>   
+    <a href="https://kotlinlang.org/">
     <img 
     align="left" 
     alt="Kotlin" 
@@ -253,7 +258,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
+/></a>  
+    <a href="https://www.electronjs.org/">
     <img 
     align="left" 
     alt="Electron" 
@@ -261,7 +267,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" 
-/>
+/></a>  
+    <a href="https://www.microsoft.com/en/sql-server/sql-server-downloads">
     <img 
     align="left" 
     alt="Microsoft SQL Server" 
@@ -269,7 +276,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-/>
+/></a> 
+    <a href="https://nodejs.org/en">
     <img 
     align="left" 
     alt="Node JS" 
@@ -277,7 +285,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
+/></a> 
+    <a href="https://nestjs.com/">
     <img 
     align="left" 
     alt="Nest JS" 
@@ -285,14 +294,17 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/> <img 
+/></a> 
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+        <img 
     align="left" 
     alt="C#" 
     title="C#"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
-/>
+/></a> 
+     <a href="https://fastify.dev/">
     <img 
     align="left" 
     alt="Fastify" 
@@ -300,7 +312,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" 
-/>
+/></a> 
+    <a href="https://expressjs.com/">
     <img 
     align="left" 
     alt="Express" 
@@ -308,7 +321,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
+/></a> 
+    <a href="https://www.prisma.io/?via=start&gad_source=1">
     <img 
     align="left" 
     alt="Prisma" 
@@ -316,7 +330,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
-/>
+/></a> 
+     <a href="https://www.cypress.io/">
     <img 
     align="left" 
     alt="Cypress" 
@@ -324,7 +339,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
-/>
+/></a> 
+     <a href="https://www.docker.com/">
     <img 
     align="left" 
     alt="Docker" 
@@ -332,7 +348,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
-/>
+/></a> 
+    <a href="https://styled-components.com/">
     <img 
     align="left" 
     alt="styled-components" 
@@ -340,7 +357,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" 
-/>
+/></a> 
+    <a href="https://flutter.dev/">
     <img 
     align="left" 
     alt="Flutter" 
@@ -348,7 +366,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
+/></a> 
 </p>
 <br><br><br><br>
 
