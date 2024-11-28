@@ -143,6 +143,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" 
 />
+    <a href="https://mui.com/material-ui/">
     <img 
     align="left" 
     alt="Material UI" 
@@ -151,6 +152,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" 
 />
+        </a>
+    <a href="https://mswjs.io/">
     <img 
     align="left" 
     alt="Mock Service Worker" 
@@ -158,7 +161,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/M/msw-mock-service-worker-logo-88A2A26653-seeklogo.com.png" 
-/>
+/></a>
     <a href="https://axios-http.com/">
     <img 
     align="left" 
