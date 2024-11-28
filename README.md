@@ -7,6 +7,8 @@ Tenho 27 anos e sou de São Paulo, SP. Sou Bacharel em Sistemas de Informação 
 
 Comecei minha carreira no mercado de trabalho como analista em BI (Business Intelligence) na [Rede](https://www.userede.com.br/) mas atualmente sou engenheiro de software na [Acqio](https://acqio.com.br/). Tenho experiência tanto com backend e frontend, mas atualmente atuo apenas na parte do front. 
 
+<br>
+
 <p align="left">
     <a href="https://www.linkedin.com/in/frnndgoia">
         <img 
@@ -61,7 +63,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
 />
-</p> <br>
+</p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
 <p align="left">
@@ -120,5 +122,52 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Node JS" 
+    title="Node JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Nest JS" 
+    title="Nest JS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+/> <img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Fastify" 
+    title="Fastify"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 </p>
