@@ -159,6 +159,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/M/msw-mock-service-worker-logo-88A2A26653-seeklogo.com.png" 
 />
+    <a href="https://typicode.github.io/husky/">
     <img 
     align="left" 
     alt="Axios" 
@@ -166,8 +167,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://velog.velcdn.com/images/yeol/post/5c4df441-9d77-4ed9-a2d2-e251a7dcb9cc/image.png" 
-/>
-    <a href="https://typicode.github.io/husky/">
+/></a>
+    <a href="https://axios-http.com/">
     <img 
     align="left" 
     alt="Husky" 
@@ -314,21 +315,5 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
-    <img 
-    align="left" 
-    alt="Xcode" 
-    title="Xcode"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg" 
-/>
-    <img 
-    align="left" 
-    alt="Swift" 
-    title="Swift"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
 </p>
