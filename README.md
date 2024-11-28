@@ -167,6 +167,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://velog.velcdn.com/images/yeol/post/5c4df441-9d77-4ed9-a2d2-e251a7dcb9cc/image.png" 
 />
+    <a href="https://typicode.github.io/husky/">
     <img 
     align="left" 
     alt="Husky" 
@@ -174,7 +175,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://em-content.zobj.net/source/microsoft/309/dog-face_1f436.png" 
-/>
+/></a>
 </p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
