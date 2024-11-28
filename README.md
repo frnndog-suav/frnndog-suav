@@ -5,10 +5,10 @@ Tenho 27 anos e sou de São Paulo, SP. Sou Bacharel em Sistemas de Informação 
 
 ### 🕹Experiências
 
-Comecei minha carreira no mercado de trabalho como analista em BI (Business Intelligence) na [Rede](https:/www.userede.com.br/) mas atualmente sou engenheiro de software na [Acqio](https://acqio.com.br/). Tenho experiência tanto com backend e frontend, mas atualmente atuo apenas na parte do front. 
+Comecei minha carreira no mercado de trabalho como analista em BI (Business Intelligence) na [Rede](https://www.userede.com.br/) mas atualmente sou engenheiro de software na [Acqio](https://acqio.com.br/). Tenho experiência tanto com backend e frontend, mas atualmente atuo apenas na parte do front. 
 
 <p align="left">
-    <a href="www.linkedin.com/in/frnndgoia">
+    <a href="https://www.linkedin.com/in/frnndgoia">
         <img 
             alt="Linkedin" 
             title="Linkedin de Fernando Goia" 
