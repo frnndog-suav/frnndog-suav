@@ -143,6 +143,14 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" 
 />
+    <img 
+    align="left" 
+    alt="Material UI" 
+    title="Material UI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" 
+/>
 </p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
@@ -265,5 +273,13 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
+/>
+    <img 
+    align="left" 
+    alt="styled-components" 
+    title="styled-components"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" 
 />
 </p>
