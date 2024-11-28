@@ -159,7 +159,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/M/msw-mock-service-worker-logo-88A2A26653-seeklogo.com.png" 
 />
-    <a href="https://typicode.github.io/husky/">
+    <a href="https://axios-http.com/">
     <img 
     align="left" 
     alt="Axios" 
