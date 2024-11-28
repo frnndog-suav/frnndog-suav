@@ -119,6 +119,30 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" 
 />
+    <img 
+    align="left" 
+    alt="Azure Devops" 
+    title="Azure Devops"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
+/>
+     <img 
+    align="left" 
+    alt="Eslint" 
+    title="Eslint"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Prettier" 
+    title="Prettier"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" 
+/>
 </p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
