@@ -151,6 +151,30 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" 
 />
+    <img 
+    align="left" 
+    alt="Mock Service Worker" 
+    title="Mock Service Worker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://seeklogo.com/images/M/msw-mock-service-worker-logo-88A2A26653-seeklogo.com.png" 
+/>
+    <img 
+    align="left" 
+    alt="Axios" 
+    title="Axios"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://velog.velcdn.com/images/yeol/post/5c4df441-9d77-4ed9-a2d2-e251a7dcb9cc/image.png" 
+/>
+    <img 
+    align="left" 
+    alt="Husky" 
+    title="Husky"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://em-content.zobj.net/source/microsoft/309/dog-face_1f436.png" 
+/>
 </p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
@@ -281,5 +305,29 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.cdnlogo.com/logos/s/10/styled-components.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Xcode" 
+    title="Xcode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-plain.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Swift" 
+    title="Swift"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
 </p>
