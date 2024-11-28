@@ -71,6 +71,54 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" 
 />
+    <img 
+    align="left" 
+    alt="Jest" 
+    title="Jest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/>
+     <img 
+    align="left" 
+    alt="React Testing Library" 
+    title="React Testing Library"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://seeklogo.com/images/T/testing-library-logo-FFB8C5C0B6-seeklogo.com.png" 
+/>
+     <img 
+    align="left" 
+    alt="Vite" 
+    title="Vite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Vitest" 
+    title="Vitest"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="React Hook Forms" 
+    title="React Hook Forms"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" 
+/>
+     <img 
+    align="left" 
+    alt="Zod" 
+    title="Zod"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" 
+/>
 </p> <br><br>
 
 ### 🤖Ja trabalhei com/estudei:
@@ -177,5 +225,13 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
+/>
+    <img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
 </p>
