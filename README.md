@@ -23,6 +23,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
 
 ### 🤖Atualmente trabalhando com/estudando:
 <p align="left">
+    <a href="https://www.typescriptlang.org/">
 <img 
     align="left" 
     alt="TypeScript"
@@ -31,6 +32,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+         </a>
+    <a href="https://react.dev/">
 <img 
     align="left" 
     alt="React e React Native"
@@ -39,6 +42,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+        </a>
+     <a href="https://tailwindcss.com/">
     <img 
     align="left" 
     alt="Tailwind" 
@@ -47,6 +52,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+           </a>
+     <a href="https://expo.dev/brand">
     <img 
     align="left" 
     alt="Expo Go" 
@@ -55,6 +62,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://www.cdnlogo.com/logos/e/72/expo-go-app.svg" 
 />
+           </a>
+     <a href="https://developer.android.com/studio?gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQiAo5u6BhDJARIsAAVoDWukIWXdiSxwRA88tQj3obE6muH4FyKjiRtCpL8Qxdc8SXuJLEtTpAsaAlG0EALw_wcB">
     <img 
     align="left" 
     alt="Android" 
@@ -63,6 +72,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" 
 />
+         </a>
+      <a href="https://ant.design/">
     <img 
     align="left" 
     alt="Ant Design" 
@@ -71,6 +82,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" 
 />
+          </a>
+    <a href="https://jestjs.io/">
     <img 
     align="left" 
     alt="Jest" 
@@ -79,6 +92,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
 />
+         </a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/">
      <img 
     align="left" 
     alt="React Testing Library" 
@@ -87,6 +102,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/T/testing-library-logo-FFB8C5C0B6-seeklogo.com.png" 
 />
+          </a>
+    <a href="https://vite.dev/">
      <img 
     align="left" 
     alt="Vite" 
@@ -95,6 +112,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" 
 />
+         </a>
+    <a href="https://vitest.dev/">
     <img 
     align="left" 
     alt="Vitest" 
@@ -103,6 +122,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" 
 />
+        </a>
+    <a href="https://www.react-hook-form.com/">
     <img 
     align="left" 
     alt="React Hook Forms" 
@@ -111,6 +132,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.svg" 
 />
+        </a>
+    <a href="https://zod.dev/">
      <img 
     align="left" 
     alt="Zod" 
@@ -119,6 +142,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" 
 />
+        </a>
+    <a href="https://azure.microsoft.com/pt-br/products/devops">
     <img 
     align="left" 
     alt="Azure Devops" 
@@ -127,6 +152,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
+         </a>
+    <a href="https://eslint.org/">
      <img 
     align="left" 
     alt="Eslint" 
@@ -135,6 +162,8 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" 
 />
+        </a>
+    <a href="https://prettier.io/">
     <img 
     align="left" 
     alt="Prettier" 
@@ -143,6 +172,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     style="padding-right: 10px;" 
     src="https://brandslogos.com/wp-content/uploads/images/large/prettier-logo.png" 
 />
+          </a>
     <a href="https://mui.com/material-ui/">
     <img 
     align="left" 
