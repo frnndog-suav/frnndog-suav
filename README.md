@@ -97,7 +97,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     title="React Testing Library"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/T/testing-library-logo-FFB8C5C0B6-seeklogo.com.png" 
+    src="https://testing-library.com/img/octopus-128x128.png" 
 />
           </a>
     <a href="https://vite.dev/">
@@ -137,7 +137,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     title="Zod"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/Z/zod-logo-B57E684330-seeklogo.com.png" 
+    src="https://imgildev.gallerycdn.vsassets.io/extensions/imgildev/vscode-zod-snippets/1.0.0/1706198072266/Microsoft.VisualStudio.Services.Icons.Default" 
 />
         </a>
     <a href="https://azure.microsoft.com/pt-br/products/devops">
@@ -187,7 +187,7 @@ Comecei minha carreira no mercado de trabalho como analista em BI (Business Inte
     title="Mock Service Worker"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://seeklogo.com/images/M/msw-mock-service-worker-logo-88A2A26653-seeklogo.com.png" 
+    src="https://avatars.githubusercontent.com/u/64637271?s=280&v=4" 
 /></a>
     <a href="https://axios-http.com/">
     <img 
