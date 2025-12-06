@@ -1,8 +1,8 @@
-# 💫 FERNANDO GOIA
+# 💫 Fernando Goia
 Sou Engenheiro de Sofware. Trabalho com programação há 5+ anos. Possuo conhecimentos em FrontEnd, BackEnd. Atualmente estudando React Native e Expo Go.
 
 
-## 🌐 Socials:
+## 🌐 Redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frnndgoia) 
 
 # 💻 Tech Stack:
