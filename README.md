@@ -1,5 +1,5 @@
 # 💫 Fernando Goia
-Software Engineer with 5+ years of experience and currentyl focused on Frontend development using React and TypeScript. I contribute to legacy projects by performing refactoring, improving performance and usability, and implementing new features. While my primary focus and priority is Web, I bring Full-Stack knowledge, including the re-architecture of a mobile application using React Native/Expo.
+Software Engineer with 5+ years of experience and currently focused on Frontend development using React and TypeScript. I contribute to legacy projects by performing refactoring, improving performance and usability, and implementing new features. While my primary focus and priority is Web, I bring Full-Stack knowledge, including the re-architecture of a mobile application using React Native/Expo.
 
 # 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/frnndgoia) 
